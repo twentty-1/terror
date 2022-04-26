@@ -63,7 +63,7 @@ print('  ')
 
 client = discord.Client()
 
-token = "OTYzMDkwNjI2NzM0MzUwMzc2.YmWuzg.IXV0iV7AUkg4LHTMkYQBEN147Rs"
+token = "TOKEN"
 
 def murder(cmd):
     subprocess.call(cmd, shell=True)
