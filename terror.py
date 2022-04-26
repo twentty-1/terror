@@ -77,7 +77,7 @@ async def on_ready():
         print()
         print("...".center(width))
         print()
-        print("[-] twentty#9999 [-]".center(width))
+        print("[-] twentty#0001 [-]".center(width))
         print("[-] user: {0} [-]".format(client.user).center(width))
         print()
     ui()
